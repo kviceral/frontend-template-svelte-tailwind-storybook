@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+/.idea/dbnavigator.xml
+/.idea/frontend-template-svelte-tailwind-storybook.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/codeStyles/Project.xml
+/.idea/vcs.xml
