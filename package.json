@@ -17,7 +17,7 @@
     "@storybook/addon-actions": "^5.2.8",
     "@storybook/addon-links": "^5.2.8",
     "@storybook/addons": "^5.2.8",
-    "@storybook/svelte": "^5.2.8",
+    "@storybook/svelte": "^6.5.13",
     "babel-loader": "^8.0.6",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^6.1.3",
